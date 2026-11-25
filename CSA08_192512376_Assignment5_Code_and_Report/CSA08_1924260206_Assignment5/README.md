@@ -1,6 +1,6 @@
-# CSA08-1924260206-Assignment5
-Student: L.G. Miduna Varshini  
-Register Number: 1924260206  
+# CSA08-192512376-Assignment5
+Student: RIthika Sree S  
+Register Number: 192512376  
 Course: Python Programming
 
 ## Structure
